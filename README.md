@@ -1,1 +1,85 @@
 # html-myportifolio
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Resume</title>
+</head>
+<body>
+        <h1>UJJIV</h1>
+        <img src="./meeee.jpg" alt="ujjiv(Future Trillinoire)" width="200" height="200"/>
+          <p>
+              <ol>
+                                <li> <h3> Summary -</h3> </li>
+                                I'm a Computer Science and Engineering student with a strong interest in mathematics, computer science, and emerging technologies.
+                                I’m passionate about exploring how tech can solve real-world problems and constantly seek opportunities to learn and grow in this fast-evolving field.
+                                Currently building my skills in web development, I aspire to start my own software company in the future.
+                                I'm driven by curiosity, creativity, and the desire to turn innovative ideas into impactful solutions.
+                                <li> <h3> Education -</h3> </li>
+                          <ul>
+                                <li>[Andhra University], [viskhapatnam, Andhra pradhesh, India]</li>
+                                <li>[June 2025] – Present</li>
+                                <li>Relevant coursework: Data Structures, Algorithms, Web Development, Operating Systems</li>
+                                <li>Activities: Coding club member, hackathon participant</li>
+                          </ul>
+                                <li><h3>Work Experience -</h3></li>
+                        
+                                      <h4>    Development Intern </h4> 
+                                      <h4>    Tech Solutions – Jan 2025 to Mar 2025</h4> 
+                          <ul>
+                               <li>Built responsive web pages using HTML, CSS, and Bootstrap.</li>
+                               <li>Improved website performance by optimizing images and code.</li> 
+                               <li>Collaborated with designers to implement UI changes.</li>
+                         </ul>
+                                      <h4>Project: Movie List Website</h4>
+                                      <h4>Self-initiated – May 2025</h4>
+                          
+                          <ul>   
+                              <li> Created a fully responsive site showcasing favorite movies using HTML, CSS, and JS.</li>
+                              <li>Practiced clean code, layout design, and deployment using GitHub Pages.</li>
+                          </ul>    
+                                <li><h3>Skills -</h3></li>
+                                     <h4> Programming & Problem Solving</h4>
+                           <ul>          
+                              <li>Structures & Algorithms (DSA)</li> 
+                              <li>C, C++, Python </li> 
+                              <li>Problem Solving on platforms like LeetCode</li> 
+                          </ul>
+                                     <h4> Web Development (Learning Phase)</h4>
+                           <ul>
+                              <li>HTML5</li>
+                              <li>CSS3</li>
+                              <li>JavaScript (ES6+)</li>
+                              <li>Responsive Web Design</li>
+                              <li>Git & GitHub</li>
+                              <li>Basic UI/UX Design Principles</li>
+                          </ul>        
+                                    <h4>Tools & Technologies </h4> 
+                           <ul>   
+                              <li>Code</li> 
+                              <li>Figma</li> 
+                              <li>Chrome DevTools</li>
+                           </ul> 
+                                    <h4>Soft Skills </h4>
+                           <ul>
+                              <li>Problem-solving mindset</li>
+                              <li>Logical thinking</li>
+                              <li>Eager to learn & grow</li>
+                              <li>Time management</li>
+                          </ul>
+                             <li><h3>My Accomplishments -</h3></li>
+                           <ul>
+                             <li>Served as the Coding Club Leader for 4 years, guiding students in programming and managing coding events</li>
+                           </ul>
+                           <li><h3>Others -</h3></li>
+                           <a href="./myHobbies.html" >My Hobbies</a> 
+                           <br/>
+                           <a href="./contactMe.html">Contact Me</a>
+
+             </ol>       
+          </p>
+</body>
+<footer>
+    <p>@ done by ujjiv</p>
+</footer>
+</html>
